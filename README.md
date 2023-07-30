@@ -54,17 +54,17 @@ The dataset comprises the following features related to the fashion and makeup p
 ## Project Structure
 The project repository will have the following structure:
 
-|-- README.md
-|-- data/
-|-- processed/
-|   |-- processed_data.csv
-|-- raw/
-|   |--supply_chain_data.xlsx
-|-- src/
-|   |-- ETL.py
-|   |-- snowflake_utils.py
-|-- power_bi/
-|   |-- supply_chain_dashboard.pbix
+- |-- README.md
+- |-- data/
+- |-- processed/
+- |   |-- processed_data.csv
+- |-- raw/
+- |   |--supply_chain_data.xlsx
+- |-- src/
+- |   |-- ETL.py
+- |   |-- snowflake_utils.py
+- |-- power_bi/
+- |   |-- supply_chain_dashboard.pbix
 
 ## Getting Started
 * Clone the repository to your local machine.
